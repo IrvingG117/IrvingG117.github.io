@@ -13,7 +13,7 @@
 }
 
 .WritingBackGround2:before {
-    background: rgba(255,255,255,0.5);
+    background: rgba(255, 255, 255, 0.5);
     content: '';
     position: absolute;
     top: 0;
@@ -54,4 +54,6 @@
     background-color: rgba(0,0,0,0.5)
 } */
 
-s
+#Banana {
+    background-color: cyan
+}
